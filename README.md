@@ -4,15 +4,17 @@ CRIE UM ALGORITMO PARA CALCULAR AS MÉDIA FINAL DOS ALUNOS DA DISCIPLINA DE ALGO
 # ALGORITMO DO EXERCÍCIO
 
 Início
-
-     Enquanto Existem disciplinas? Faça
-          Enquanto Existem alunos? Faça
-		Ler as notas de um aluno da disciplina em questão
-		Calcular a nota final
-		Exibir sua nota
-          Fim Enquanto
-     Fim Enquanto    
-
+  Existe nota de Ac1? Faça
+          Existe nota de Ac2? Faça
+	  Exixte nota de Ag? Faça
+	  Existe nota final? Faça
+		Ler as notas, multiplicar pelo seu devido peso, somar e dividir 
+		tirar a méedia 
+		Apresentar a média
+		Dizer se o aluno foi aprovado
+		Dizer se alono foi reprovado 
+   
+    
 Fim
 
 
